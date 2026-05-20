@@ -1,4 +1,4 @@
-# FitMajster – aplikacja do planowania treningów
+# FitMajster – aplikacja do planowania treningów i diety
 
 FitMajster to aplikacja webowa wspierająca użytkowników w planowaniu treningów, zarządzaniu planami ćwiczeń oraz monitorowaniu postępów. Projekt powstaje jako część pracy inżynierskiej dotyczącej projektowania i implementacji nowoczesnych aplikacji internetowych wspierających aktywność fizyczną.
 
